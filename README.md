@@ -1,6 +1,6 @@
 # Patrick Ridge
 
-Mathematics and Physics student at the University of St Andrews with an interest in quantitative finance and algorithmic trading.
+Mathematics and Physics student at the University of St Andrews interested in applying mathematics, machine learning and statistical modelling to financial markets.
 
 ## Projects
 
