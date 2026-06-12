@@ -12,10 +12,11 @@ Mathematics and Physics student at the University of St Andrews interested in ap
 | [Full-House](https://github.com/patrickridge/full-house) | Ranked #8 of 500+ in qualifying for Fullhouse 2026, the UK quantitative poker bot competition, and competed at the live finals at UCL East — CFR-trained preflop blueprint, Monte Carlo equity engine and live opponent profiling |
 | [Artemis-Quant-Comp](https://github.com/patrickridge/artemis-quant-comp) | Stablecoin-flow crypto rotation strategy for the Artemis 2026 quant competition — block-bootstrap and Newey-West evaluation, Polymarket regime overlay and a SAC RL tilt agent. Judges scored critical evaluation 9.5/10 |
 | [Particle-Orbit-Theory](https://github.com/patrickridge/particle-orbit-theory) | BSc Honours project (MT4599), University of St Andrews. The Motion of Charged Particles in Electromagnetic Fields |
+| [IMC-Prosperity-4](https://github.com/patrickridge/imc-prosperity-4) | Top 7% of 18,803 teams (#141 in country) in IMC's global algorithmic trading competition, as a team of five |
 | [Stirlingshire-Charts](https://github.com/patrickridge/stirlingshire-charts) | Market data visualisation platform for US-based investment advisory firm (Stirlingshire). Displays live and historical equities data with accurate multi-timeframe OHLCV generation |
 | [Monte-Carlo-Option-Pricing](https://github.com/patrickridge/monte-carlo-option-pricing) | Monte Carlo simulation for pricing European and American options |
-| [German-electricity-market-trading](https://github.com/patrickridge/german-electricity-market-trading) | Forecasting German electricity market spreads — top 15 Kaggle leaderboard |
-| [Portfolio-optimisation](https://github.com/patrickridge/portfolio-optimisation) | Mean-variance portfolio optimisation |
+| [German-Electricity-Market-Trading](https://github.com/patrickridge/german-electricity-market-trading) | Forecasting German electricity market spreads — top 15 Kaggle leaderboard |
+| [Portfolio-Optimisation](https://github.com/patrickridge/portfolio-optimisation) | Mean-variance portfolio optimisation |
 
 ## Skills
 Python · C++ · NumPy · Pandas · Scikit-learn · PyTorch · Transformers · Reinforcement Learning · Matplotlib · SciPy · Binance API · Git · Bash
