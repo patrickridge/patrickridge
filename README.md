@@ -1,6 +1,6 @@
 # Patrick Ridge
 
-MSc Computational Finance student at UCL, following a BSc in Mathematics and Physics at the University of St Andrews. Interested in applying mathematics, machine learning and statistical modelling to financial markets.
+Mathematics and Physics graduate from the University of St Andrews and MSc Computational Finance student at UCL.
 
 ## Projects
 
