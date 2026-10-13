@@ -26,7 +26,6 @@ Mathematics and Physics student at the University of St Andrews interested in ap
 | [picture-cube](https://github.com/patrickridge/picture-cube) | Photograph a Rubik's cube printed with pictures and get the moves to solve it, with every centre the right way up. Next.js, TypeScript. — [Live](https://picture-cube.vercel.app) |
 | [london-commute](https://github.com/patrickridge/london-commute) | Plan a London commute: tube time, whether you'll get a seat, and whether getting off early, staying on or biking part of the way is better. Next.js, TypeScript, TfL open data. — [Live](https://london-commute-planner.vercel.app) |
 | [student-loan-calculator](https://github.com/patrickridge/student-loan-calculator) | Should you overpay your UK student loan? Compares overpaying with investing the money, for Plans 1, 2, 4, 5 and Postgraduate. Next.js, TypeScript. — [Live](https://student-loan-repayment.vercel.app) |
-| [tube-crowding](https://github.com/patrickridge/tube-crowding) | Python pipeline and analysis of TfL crowding data, which builds the data behind the London commute planner |
 
 ## Skills
 Python · C++ · TypeScript · Next.js · NumPy · Pandas · Scikit-learn · PyTorch · Transformers · Reinforcement Learning · Matplotlib · SciPy · Binance API · Git · Bash · Claude Code
