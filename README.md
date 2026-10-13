@@ -28,7 +28,7 @@ Mathematics and Physics student at the University of St Andrews interested in ap
 | [student-loan-calculator](https://github.com/patrickridge/student-loan-calculator) | Should you overpay your UK student loan? Compares overpaying with investing the money, for Plans 1, 2, 4, 5 and Postgraduate. Next.js, TypeScript. — [Live](https://student-loan-repayment.vercel.app) |
 
 ## Skills
-Python · C++ · TypeScript · Next.js · NumPy · Pandas · Scikit-learn · PyTorch · Transformers · Reinforcement Learning · Matplotlib · SciPy · Binance API · Git · Bash · Claude Code
+Python · C++ · TypeScript · Next.js · NumPy · Pandas · Scikit-learn · PyTorch · Transformers · Reinforcement Learning · Matplotlib · SciPy · Binance API · Git · Bash
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-patrick--ridge-blue)](https://linkedin.com/in/patrick-ridge)
