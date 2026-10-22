@@ -6,7 +6,7 @@ Mathematics and Physics graduate from the University of St Andrews and MSc Compu
 
 | Repository | Description |
 |---|---|
-| [Avenir-HKU-Web3.0-Quantitative-Trading-Challenge-2025](https://github.com/patrickridge/Avenir-HKU-Web3.0-Quantitative-Trading-Challenge-2025) | Top 10 finalist. Developed an ML-driven crypto trading strategy and presented live trading performance at the finals in Hong Kong, managed a 10,000 USDT allocation and achieved 15%+ returns |
+| [Avenir-HKU-Web3.0-Quantitative-Trading-Challenge-2025](https://github.com/patrickridge/Avenir-HKU-Web3.0-Quantitative-Trading-Challenge-2025) | Developed an ML-driven crypto trading strategy and presented live trading performance at the finals in Hong Kong, managed a 10,000 USDT allocation and achieved 15%+ returns |
 | [Deep-Learning-for-Index-Enhancement](https://github.com/patrickridge/ml-index-enhancement) | Deep learning for index enhancement on the S&P 500. Cross-Sectional Transformer ranks ~500 stocks monthly, a two-layer SAC RL agent sizes the tilt — adaptive sizing produced 67% more alpha than a fixed tilt (2.90% vs 1.73%, both at 5.0% tracking error), winning 5 of 5 folds over a 144-month walk-forward |
 | [HFT-Limit-Order-Book-Prediction](https://github.com/patrickridge/HFT-Limit-Order-Book-Prediction) | Sequence-based RNN models for high-frequency limit order book price forecasting — ranked 42nd globally (top 1%) in the Wunder Predictorium competition |
 | [Particle-Orbit-Theory](https://github.com/patrickridge/particle-orbit-theory) | BSc Honours project (MT4599), University of St Andrews. The Motion of Charged Particles in Electromagnetic Fields |
